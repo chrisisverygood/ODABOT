@@ -1,0 +1,16 @@
+{
+  "name": "oda",
+  "version": "1.0.0",
+  "description": "Aurora Secruity",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "routerabfrage",
+  "license": "https://github.com/routerabfrage/License",
+  "dependencies": {
+    "better-sqlite3": "^7.0.1",
+    "discord.js": "^12.5.3",
+    "enmap": "^5.7.1"
+  }
+}
